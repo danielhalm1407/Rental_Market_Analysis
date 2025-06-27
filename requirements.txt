@@ -1,27 +1,40 @@
 # Core
 pandas>=2.1
+tqdm==4.65.0
+
 
 # Add pkgs required by VS Code
+jupyter
 ipykernel
 
-# Bloomberg API
-#-m pip install --index-url=https://blpapi.bloomberg.com/repository/releases/python/simple blpapi
+# SQL
+jupysql>=0.10.4
+sqlalchemy>=2.0.23
 
-# Yahoo Finance API
-#yfinance --upgrade --no-cache-dir
-yfinance
+torch>=2
+transformers>=4.39
+
+# Add pkgs required by VS Code
+jupyter
+ipykernel
+
 
 # Visualisation
 seaborn
 matplotlib>=3.7
 plotly
+altair>=5
 nbformat>=4.2.0
 streamlit
 dash
+tabulate
+plotnine>0.12
 
 # SQL
 jupysql>=0.10.4
 sqlalchemy>=2.0.23
+torch>=2
+transformers>=4.39
 
 # Web-Scraping and API Requests
 scrapy

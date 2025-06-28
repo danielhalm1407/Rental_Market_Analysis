@@ -38,6 +38,9 @@ transformers>=4.39
 
 # Web-Scraping and API Requests
 scrapy
+httpx
+parsel
+jmespath
 
 # Optimisation
 scipy

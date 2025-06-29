@@ -1,285 +1,3802 @@
 [
   {
-    "id": "163907291",
-    "available": true,
-    "archived": false,
-    "phone": "020 3835 3553",
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "type": "RENT",
-    "property_type": "Apartment",
-    "tags": [],
-    "description": "Located on the 6th floor, is this gorgeous two bedroom, two bathroom corner unit offering jaw dropping views of Thames City & The Shard. Spread over 807 Sq.Ft this lateral apartment sits on the best plot position of the building, with an over sized living room that is bathed in light and further heightened with access to a private balcony makes for the perfect in-out flow. <br /><br />Apartment Features:<br />- Corner apartment <br />- Direct view of The Shard<br />- Designed by London-based duo Benningen & Lloyd<br />- Rare marble, crafted tiles with mood lit bathrooms<br />- Wine cooler <br />- Underfloor heating and comfort cooling<br /><br />Resident Exclusive Amenities:<br />- Access to the infamous Sky Pool <br />- Orangery rooftop <br />- 24/7 concierge <br />- State of the art gym <br />- Business lounge<br />- Cinema room<br /><br />Embassy Gardens is a 21st-century development on the South Bank of London, looking across the River Thames to Chelsea and Kensington. With its own green space, art trail, shops, restaurants and caf\u00e9s, Embassy Gardens offers residents and their guests the complete London experience in the centre of the city.<br /><br />3 minute walk to the new Nine Elms tube station<br />10 minute walk to Vauxhall overground/tube station<br />7 minutes to Oxford Circus from Vauxhall station<br />12 minutes to Eurostar and Kings Cross from Vauxhall station<br />24 minute walk to Battersea Park",
-    "title": "2 bedroom apartment for rent in The Modern, Embassy Gardens, SW11",
-    "subtitle": "2 bedroom apartment",
-    "price": "\u00a34,400 pcm",
-    "price_sqft": null,
-    "address": {
-      "displayAddress": "The Modern, Embassy Gardens, SW11",
-      "countryCode": "GB",
-      "deliveryPointId": 107171035,
-      "ukCountry": "England",
-      "outcode": "SW11",
-      "incode": "7AY"
+    "id": 163628153,
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "numberOfImages": 10,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "A quirky studio apartment situated on the raised ground floor of a stucco fronted period house. The propery benefits from having high ceilings throughout, open plan kitchen, mezzanine sleeping area and a three piece shower room. Available immediately offered furnished. Rent includes all utilities...",
+    "displayAddress": "Belsize Park, London, NW3",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.548427,
+      "longitude": -0.171794
     },
-    "latitude": 51.482636,
-    "longitude": -0.129653,
-    "features": [
-      "Available Now",
-      "Virtual tour available",
-      "Fully furnished",
-      "Direct views of The Shard",
-      "Corner apartment",
-      "Underfloor heating",
-      "Access to Sky Pool",
-      "24/7 concierge",
-      "Residents gym",
-      "Cinema room"
-    ],
-    "history": {
-      "listingUpdateReason": "Added yesterday"
+    "propertyImages": {
+      "images": [
+        {
+          "url": "107k/106225/163628153/106225_BEP210149_L_IMG_00_0000.jpeg",
+          "caption": "Picture No. 01",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/107k/106225/163628153/106225_BEP210149_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "107k/106225/163628153/106225_BEP210149_L_IMG_01_0000.jpeg",
+          "caption": "Picture No. 10",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/107k/106225/163628153/106225_BEP210149_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "107k/106225/163628153/106225_BEP210149_L_IMG_02_0000.jpeg",
+          "caption": "Picture No. 02",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/107k/106225/163628153/106225_BEP210149_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "107k/106225/163628153/106225_BEP210149_L_IMG_03_0000.jpeg",
+          "caption": "Picture No. 03",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/107k/106225/163628153/106225_BEP210149_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "107k/106225/163628153/106225_BEP210149_L_IMG_04_0000.jpeg",
+          "caption": "Picture No. 04",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/107k/106225/163628153/106225_BEP210149_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "107k/106225/163628153/106225_BEP210149_L_IMG_05_0000.jpeg",
+          "caption": "Picture No. 05",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/107k/106225/163628153/106225_BEP210149_L_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "107k/106225/163628153/106225_BEP210149_L_IMG_06_0000.jpeg",
+          "caption": "Picture No. 06",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/107k/106225/163628153/106225_BEP210149_L_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "107k/106225/163628153/106225_BEP210149_L_IMG_07_0000.jpeg",
+          "caption": "Picture No. 07",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/107k/106225/163628153/106225_BEP210149_L_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "107k/106225/163628153/106225_BEP210149_L_IMG_08_0000.jpeg",
+          "caption": "Picture No. 08",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/107k/106225/163628153/106225_BEP210149_L_IMG_08_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "107k/106225/163628153/106225_BEP210149_L_IMG_09_0000.jpeg",
+          "caption": "Picture No. 09",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/107k/106225/163628153/106225_BEP210149_L_IMG_09_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/107k/106225/163628153/106225_BEP210149_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/107k/106225/163628153/106225_BEP210149_L_IMG_00_0000_max_296x197.jpeg"
     },
-    "photos": [
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_00_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_01_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_02_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_03_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_04_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_05_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_06_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_07_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_08_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_09_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_10_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_11_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_12_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_13_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_14_0000.jpeg",
-        "caption": null
-      },
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_IMG_15_0000.jpeg",
-        "caption": null
-      }
-    ],
-    "floorplans": [
-      {
-        "url": "https://media.rightmove.co.uk/265k/264404/163907291/264404_RX596163_FLP_00_0000.jpeg",
-        "caption": "Floorplan 1"
-      }
-    ],
-    "agency": {
-      "id": 264404,
-      "branch": "London",
-      "company": "ROMANS & PARTNERS LIMITED",
-      "address": "40 Bank Street,\r\nCanary Wharf\r\nE14 5NR",
+    "propertySubType": "Apartment",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-21T11:06:13Z"
+    },
+    "price": {
+      "amount": 1500,
+      "frequency": "monthly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a31,500 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3346 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": true,
+    "customer": {
+      "branchId": 106225,
+      "brandPlusLogoURI": "/company/clogo_19244_0005.jpeg",
+      "contactTelephone": "020 3909 6480",
+      "branchDisplayName": "Stones Residential, Belsize Park",
+      "branchName": "Belsize Park",
+      "brandTradingName": "Stones Residential",
+      "branchLandingPageUrl": "/estate-agents/agent/Stones-Residential/Belsize-Park-106225.html",
+      "development": false,
+      "showReducedProperties": true,
       "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
       "buildToRent": false,
-      "isNew": false
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_19244_0005.jpeg"
     },
-    "industryAffiliations": [],
-    "nearest_airports": [],
-    "nearest_stations": [
-      {
-        "name": "Nine Elms Station",
-        "distance": 0.19651556985347293
-      },
-      {
-        "name": "Vauxhall Station",
-        "distance": 0.3471264804749964
-      },
-      {
-        "name": "Pimlico Station",
-        "distance": 0.48566173864343737
-      }
-    ],
-    "sizings": [
-      {
-        "unit": "ha",
-        "min": 0.01,
-        "max": 0.01
-      },
-      {
-        "unit": "sqm",
-        "min": 75,
-        "max": 75
-      },
-      {
-        "unit": "sqft",
-        "min": 807,
-        "max": 807
-      },
-      {
-        "unit": "ac",
-        "min": 0.02,
-        "max": 0.02
-      }
-    ],
-    "brochures": []
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163628153#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163628153",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-21T11:00:44Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "Featured Property",
+    "isRecent": false,
+    "enhancedListing": false,
+    "addedOrReduced": "Added on 21/06/2025",
+    "formattedBranchName": " by Stones Residential, Belsize Park",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "Studio apartment"
   },
   {
-    "id": "163907069",
-    "available": true,
-    "archived": false,
-    "phone": "020 3872 4834",
+    "id": 163931060,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 10,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "The huge 1st floor purpose built flat in Morden, London is a fantastic opportunity for those seeking a spacious and conveniently located rental property.",
+    "displayAddress": "Ravensbury Court, Bishopsford Road, Morden, London",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.389634,
+      "longitude": -0.19673
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "6k/5353/163931060/5353_CQX-4936872_IMG_00_0000.jpeg",
+          "caption": "20240309225214315_original.jpeg",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/6k/5353/163931060/5353_CQX-4936872_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "6k/5353/163931060/5353_CQX-4936872_IMG_01_0000.jpeg",
+          "caption": "20240309225212835_original.jpeg",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/6k/5353/163931060/5353_CQX-4936872_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "6k/5353/163931060/5353_CQX-4936872_IMG_02_0000.jpeg",
+          "caption": "20240309225213197_original.jpeg",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/6k/5353/163931060/5353_CQX-4936872_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "6k/5353/163931060/5353_CQX-4936872_IMG_03_0000.jpeg",
+          "caption": "20240309225213513_original.jpeg",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/6k/5353/163931060/5353_CQX-4936872_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "6k/5353/163931060/5353_CQX-4936872_IMG_04_0000.jpeg",
+          "caption": "20240309225213928_original.jpeg",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/6k/5353/163931060/5353_CQX-4936872_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "6k/5353/163931060/5353_CQX-4936872_IMG_05_0000.jpeg",
+          "caption": "20240309225215284_original.jpeg",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/6k/5353/163931060/5353_CQX-4936872_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "6k/5353/163931060/5353_CQX-4936872_IMG_06_0000.jpeg",
+          "caption": "20240309225214668_original.jpeg",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/6k/5353/163931060/5353_CQX-4936872_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "6k/5353/163931060/5353_CQX-4936872_IMG_07_0000.jpeg",
+          "caption": "20240309225214992_original.jpeg",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/6k/5353/163931060/5353_CQX-4936872_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "6k/5353/163931060/5353_CQX-4936872_IMG_08_0000.jpeg",
+          "caption": "20240309225216648_original.jpeg",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/6k/5353/163931060/5353_CQX-4936872_IMG_08_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "6k/5353/163931060/5353_CQX-4936872_IMG_09_0000.jpeg",
+          "caption": "20240309225217016_original.jpeg",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/6k/5353/163931060/5353_CQX-4936872_IMG_09_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/6k/5353/163931060/5353_CQX-4936872_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/6k/5353/163931060/5353_CQX-4936872_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T19:35:01Z"
+    },
+    "price": {
+      "amount": 1300,
+      "frequency": "monthly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a31,300 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3300 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 5353,
+      "brandPlusLogoURI": "/6k/5353/branch_logo_5353_0001.jpeg",
+      "contactTelephone": "020 3893 8806",
+      "branchDisplayName": "Sharpes Estates Ltd, Colliers Wood",
+      "branchName": "Colliers Wood",
+      "brandTradingName": "Sharpes Estates Ltd",
+      "branchLandingPageUrl": "/estate-agents/agent/Sharpes-Estates-Ltd/Colliers-Wood-5353.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/6k/5353/branch_logo_5353_0001.jpeg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163931060#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163931060",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T19:29:09Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Sharpes Estates Ltd, Colliers Wood",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "1 bedroom flat"
+  },
+  {
+    "id": 163930976,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "numberOfImages": 11,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "We are proud to offer this delightful 4 bedroom, 2 bathroom end terrace in a great location. Available to move in from 01 September 2025, this property benefits from available parking, and garden... ** Property Reference: 358392 **",
+    "displayAddress": "Queens Road, Walthamstow, E17",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.576702,
+      "longitude": -0.028471
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "97k/96668/163930976/96668_35839212032018_IMG_00_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930976/96668_35839212032018_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930976/96668_35839212032018_IMG_01_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930976/96668_35839212032018_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930976/96668_35839212032018_IMG_02_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930976/96668_35839212032018_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930976/96668_35839212032018_IMG_03_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930976/96668_35839212032018_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930976/96668_35839212032018_IMG_04_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930976/96668_35839212032018_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930976/96668_35839212032018_IMG_05_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930976/96668_35839212032018_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930976/96668_35839212032018_IMG_06_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930976/96668_35839212032018_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930976/96668_35839212032018_IMG_07_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930976/96668_35839212032018_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930976/96668_35839212032018_IMG_08_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930976/96668_35839212032018_IMG_08_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930976/96668_35839212032018_IMG_09_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930976/96668_35839212032018_IMG_09_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930976/96668_35839212032018_IMG_10_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930976/96668_35839212032018_IMG_10_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930976/96668_35839212032018_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930976/96668_35839212032018_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "End of Terrace",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T19:14:03Z"
+    },
+    "price": {
+      "amount": 4350,
+      "frequency": "monthly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a34,350 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a31,004 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 96668,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_37106_0000.png",
+      "contactTelephone": "020 3322 3265",
+      "branchDisplayName": "OpenRent, London",
+      "branchName": "London",
+      "brandTradingName": "OpenRent",
+      "branchLandingPageUrl": "/estate-agents/agent/OpenRent/London-96668.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_37106_0000.png"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": "OpenRent is the UK&#39;s largest letting agent, using online services to make renting properties cheaper and more convenient than ever before - while holding quality and security as our top priorities. <br /><br />\nOpenRent has never charged any administration or agency fees. <br /><br />\nUnder the Tenant Fees Act 2019, landlords may charge you a fee if you lose keys or other security devices, or pay your rent late. You may also be asked for other permitted payments, such as a holding deposit when you begin your application. <br /><br />\nThere are no hidden fees or other charges when renting an OpenRent property. <br /><br />\nOpenRent is a proud member of the Property Ombudsman and holds comprehensive Client Money Protection via the government-authorised Propertymark Client Money Protection scheme. <br /><br />\nOpenRent is a registered agent in Scotland with registration number LARN1809026 and is a member of RentSmart Wales with license number #LR-75033-48352. <br /><br />\n",
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930976#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930976",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T19:08:16Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by OpenRent, London",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "4 bedroom end of terrace house"
+  },
+  {
+    "id": 162597587,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 15,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "A superb, one-bedroom apartment situated in the brand new River Park Tower development in Nine Elms and close to Vauxhall Station.",
+    "displayAddress": "Nine Elms Lane, London, SW8",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.484241,
+      "longitude": -0.12758
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_00_0000.jpeg",
+          "caption": "Picture No. 01",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_01_0000.jpeg",
+          "caption": "Picture No. 02",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_02_0000.jpeg",
+          "caption": "Picture No. 03",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_03_0000.jpeg",
+          "caption": "Picture No. 04",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_04_0000.jpeg",
+          "caption": "Picture No. 05",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_05_0000.jpeg",
+          "caption": "Picture No. 06",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_06_0000.jpeg",
+          "caption": "Picture No. 07",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_07_0000.jpeg",
+          "caption": "Picture No. 08",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_08_0000.jpeg",
+          "caption": "Picture No. 09",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_08_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_09_0000.jpeg",
+          "caption": "Picture No. 10",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_09_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_10_0000.jpeg",
+          "caption": "Picture No. 12",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_10_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_11_0000.jpeg",
+          "caption": "Picture No. 13",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_11_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_12_0000.jpeg",
+          "caption": "Picture No. 14",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_12_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_13_0000.jpeg",
+          "caption": "Picture No. 15",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_13_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "157k/156782/162597587/156782_KAD250158_L_IMG_14_0000.jpeg",
+          "caption": "Picture No. 16",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_14_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/157k/156782/162597587/156782_KAD250158_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2025-06-28T19:12:16Z"
+    },
+    "price": {
+      "amount": 4000,
+      "frequency": "monthly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a34,000 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3923 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 156782,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_21877_0010.png",
+      "contactTelephone": "020 3834 8249",
+      "branchDisplayName": "Kinleigh Folkard & Hayward - Lettings, Battersea Park Lettings",
+      "branchName": "Battersea Park Lettings",
+      "brandTradingName": "Kinleigh Folkard & Hayward - Lettings",
+      "branchLandingPageUrl": "/estate-agents/agent/Kinleigh-Folkard-and-Hayward---Lettings/Battersea-Park-Lettings-156782.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_21877_0010.png"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/162597587#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=162597587",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-05-29T17:21:19Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Reduced today",
+    "formattedBranchName": " by Kinleigh Folkard & Hayward - Lettings, Battersea Park Lettings",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "1 bedroom flat"
+  },
+  {
+    "id": 163930820,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 7,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "O.I.G Real Estate are delighted to present this spacious one bedroom apartment.",
+    "displayAddress": "Brooklands Court, Cavendish Road, Brondesbury, London, NW6",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.544548,
+      "longitude": -0.204789
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "286k/285305/163930820/285305_OIL210438_L_IMG_00_0000.jpeg",
+          "caption": "Picture No. 02",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/163930820/285305_OIL210438_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "286k/285305/163930820/285305_OIL210438_L_IMG_01_0000.jpeg",
+          "caption": "Picture No. 04",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/163930820/285305_OIL210438_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "286k/285305/163930820/285305_OIL210438_L_IMG_02_0000.jpeg",
+          "caption": "Picture No. 03",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/163930820/285305_OIL210438_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "286k/285305/163930820/285305_OIL210438_L_IMG_03_0000.jpeg",
+          "caption": "Picture No. 05",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/163930820/285305_OIL210438_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "286k/285305/163930820/285305_OIL210438_L_IMG_04_0000.jpeg",
+          "caption": "Picture No. 06",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/163930820/285305_OIL210438_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "286k/285305/163930820/285305_OIL210438_L_IMG_05_0000.jpeg",
+          "caption": "Picture No. 07",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/163930820/285305_OIL210438_L_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "286k/285305/163930820/285305_OIL210438_L_IMG_06_0000.jpeg",
+          "caption": "Picture No. 08",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/163930820/285305_OIL210438_L_IMG_06_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/163930820/285305_OIL210438_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/286k/285305/163930820/285305_OIL210438_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Apartment",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:34:04Z"
+    },
+    "price": {
+      "amount": 380,
+      "frequency": "weekly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a31,647 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3380 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 285305,
+      "brandPlusLogoURI": "/286k/285305/branch_rmchoice_logo_285305_0000.jpeg",
+      "contactTelephone": "020 4572 5002",
+      "branchDisplayName": "OIG Real Estate Limited, London",
+      "branchName": "London",
+      "brandTradingName": "OIG Real Estate Limited",
+      "branchLandingPageUrl": "/estate-agents/agent/OIG-Real-Estate-Limited/London-285305.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/286k/285305/branch_rmchoice_logo_285305_0000.jpeg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "47 sq. m.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930820#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930820",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T18:28:54Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by OIG Real Estate Limited, London",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "1 bedroom apartment"
+  },
+  {
+    "id": 163930736,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 14,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 1,
+    "summary": "1 Bed Flat, Nauticus Walk, E14 We are proud to offer this delightful 1 bedroom, 1 bathroom flat in a great location. Available to move in from 28 June 2025. Property is offered furnished. Viewi... ** Property Reference: 1912885 **",
+    "displayAddress": "Nauticus Walk, London, E14",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.49146,
+      "longitude": -0.016109
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "97k/96668/163930736/96668_191288530112023_IMG_00_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930736/96668_191288530112023_IMG_01_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930736/96668_191288530112023_IMG_02_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930736/96668_191288530112023_IMG_03_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930736/96668_191288530112023_IMG_04_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930736/96668_191288530112023_IMG_05_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930736/96668_191288530112023_IMG_06_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930736/96668_191288530112023_IMG_07_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930736/96668_191288530112023_IMG_08_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_08_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930736/96668_191288530112023_IMG_09_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_09_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930736/96668_191288530112023_IMG_10_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_10_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930736/96668_191288530112023_IMG_11_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_11_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930736/96668_191288530112023_IMG_12_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_12_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930736/96668_191288530112023_IMG_13_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_13_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930736/96668_191288530112023_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:15:07Z"
+    },
+    "price": {
+      "amount": 1700,
+      "frequency": "monthly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a31,700 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3392 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 96668,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_37106_0000.png",
+      "contactTelephone": "020 3322 3265",
+      "branchDisplayName": "OpenRent, London",
+      "branchName": "London",
+      "brandTradingName": "OpenRent",
+      "branchLandingPageUrl": "/estate-agents/agent/OpenRent/London-96668.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_37106_0000.png"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": "OpenRent is the UK&#39;s largest letting agent, using online services to make renting properties cheaper and more convenient than ever before - while holding quality and security as our top priorities. <br /><br />\nOpenRent has never charged any administration or agency fees. <br /><br />\nUnder the Tenant Fees Act 2019, landlords may charge you a fee if you lose keys or other security devices, or pay your rent late. You may also be asked for other permitted payments, such as a holding deposit when you begin your application. <br /><br />\nThere are no hidden fees or other charges when renting an OpenRent property. <br /><br />\nOpenRent is a proud member of the Property Ombudsman and holds comprehensive Client Money Protection via the government-authorised Propertymark Client Money Protection scheme. <br /><br />\nOpenRent is a registered agent in Scotland with registration number LARN1809026 and is a member of RentSmart Wales with license number #LR-75033-48352. <br /><br />\n",
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930736#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930736",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T18:09:35Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by OpenRent, London",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "1 bedroom flat"
+  },
+  {
+    "id": 163930730,
     "bedrooms": 2,
     "bathrooms": 1,
-    "type": "RENT",
-    "property_type": "Flat",
-    "tags": [],
-    "description": "A charming split level two bedroom apartment to rent with access to a private roof terrace in the centre of East Dulwich.<br /><br />\rLocated on this great road just off the vibrant Lordship Lane is this charming split level two bedroom apartment to rent. With beautiful views over London and a large decked private roof terrace. Features include a spacious reception room and separate fully fitted kitchen. Available end of July. <br /><br />Additional Information<br /><br />Holding Deposit: \u00a3553.84 (1 week)*<br />Tenancy Deposit: \u00a32769.23 (5 weeks)*<br />Council Tax Band: D<br /><br />*The deposit amounts are approximate and will vary depending on the final rent agreed.<br /><br />",
-    "title": "2 bedroom flat for rent in Bassano Street, London, SE22",
-    "subtitle": "2 bedroom flat",
-    "price": "\u00a32,400 pcm",
-    "price_sqft": null,
-    "address": {
-      "displayAddress": "Bassano Street, London, SE22",
-      "countryCode": "GB",
-      "deliveryPointId": null,
-      "ukCountry": "England",
-      "outcode": "SE22",
-      "incode": "8RY"
+    "numberOfImages": 9,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "Stunning 2 bedroom flat in fantastic location next to Holland Park/Notting Hill/Kensington Fully integrated kitchen with all appliances.Good-sized storage in bedrooms with modern fitted wardrobes... ** Property Reference: 2533971 **",
+    "displayAddress": "Sheffield Terrace, London, W8",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.50507,
+      "longitude": -0.196823
     },
-    "latitude": 51.456039,
-    "longitude": -0.075196,
-    "features": [
-      "-\tTwo double bedrooms",
-      "-             Spacious reception",
-      "-\tLarge Private Roof Terrace",
-      "-\tStripped Wood Flooring",
-      "-\tPrime East Dulwich Location",
-      "-\tAvailable end of July"
-    ],
-    "history": {
-      "listingUpdateReason": "Added yesterday"
+    "propertyImages": {
+      "images": [
+        {
+          "url": "97k/96668/163930730/96668_253397128062025_IMG_00_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930730/96668_253397128062025_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930730/96668_253397128062025_IMG_01_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930730/96668_253397128062025_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930730/96668_253397128062025_IMG_02_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930730/96668_253397128062025_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930730/96668_253397128062025_IMG_03_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930730/96668_253397128062025_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930730/96668_253397128062025_IMG_04_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930730/96668_253397128062025_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930730/96668_253397128062025_IMG_05_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930730/96668_253397128062025_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930730/96668_253397128062025_IMG_06_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930730/96668_253397128062025_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930730/96668_253397128062025_IMG_07_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930730/96668_253397128062025_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930730/96668_253397128062025_IMG_08_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930730/96668_253397128062025_IMG_08_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930730/96668_253397128062025_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930730/96668_253397128062025_IMG_00_0000_max_296x197.jpeg"
     },
-    "photos": [
-      {
-        "url": "https://media.rightmove.co.uk/58k/57994/163907069/57994_KDI220013_L_IMG_00_0000.jpeg",
-        "caption": "Picture No. 18"
-      },
-      {
-        "url": "https://media.rightmove.co.uk/58k/57994/163907069/57994_KDI220013_L_IMG_01_0000.jpeg",
-        "caption": "Picture No. 24"
-      },
-      {
-        "url": "https://media.rightmove.co.uk/58k/57994/163907069/57994_KDI220013_L_IMG_02_0000.jpeg",
-        "caption": "Picture No. 21"
-      },
-      {
-        "url": "https://media.rightmove.co.uk/58k/57994/163907069/57994_KDI220013_L_IMG_03_0000.jpeg",
-        "caption": "Picture No. 29"
-      },
-      {
-        "url": "https://media.rightmove.co.uk/58k/57994/163907069/57994_KDI220013_L_IMG_04_0000.jpeg",
-        "caption": "Picture No. 27"
-      },
-      {
-        "url": "https://media.rightmove.co.uk/58k/57994/163907069/57994_KDI220013_L_IMG_05_0000.jpeg",
-        "caption": "Picture No. 15"
-      },
-      {
-        "url": "https://media.rightmove.co.uk/58k/57994/163907069/57994_KDI220013_L_IMG_06_0000.jpeg",
-        "caption": "Picture No. 16"
-      },
-      {
-        "url": "https://media.rightmove.co.uk/58k/57994/163907069/57994_KDI220013_L_IMG_07_0000.jpeg",
-        "caption": "Picture No. 19"
-      },
-      {
-        "url": "https://media.rightmove.co.uk/58k/57994/163907069/57994_KDI220013_L_IMG_08_0000.jpeg",
-        "caption": "Picture No. 23"
-      },
-      {
-        "url": "https://media.rightmove.co.uk/58k/57994/163907069/57994_KDI220013_L_IMG_09_0000.jpeg",
-        "caption": "Picture No. 26"
-      },
-      {
-        "url": "https://media.rightmove.co.uk/58k/57994/163907069/57994_KDI220013_L_IMG_10_0000.jpeg",
-        "caption": "Picture No. 28"
-      },
-      {
-        "url": "https://media.rightmove.co.uk/58k/57994/163907069/57994_KDI220013_L_IMG_11_0000.jpeg",
-        "caption": "Picture No. 22"
-      }
-    ],
-    "floorplans": [
-      {
-        "url": "https://media.rightmove.co.uk/58k/57994/163907069/57994_KDI220013_L_FLP_00_0000.gif",
-        "caption": "Floorplan (002)"
-      }
-    ],
-    "agency": {
-      "id": 57994,
-      "branch": "East Dulwich",
-      "company": "Kinleigh Folkard & Hayward",
-      "address": "107 - 109 Lordship Lane\r\nLondon,\r\nSE22 8HU ",
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:15:06Z"
+    },
+    "price": {
+      "amount": 2695,
+      "frequency": "monthly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a32,695 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3622 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 96668,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_37106_0000.png",
+      "contactTelephone": "020 3322 3265",
+      "branchDisplayName": "OpenRent, London",
+      "branchName": "London",
+      "brandTradingName": "OpenRent",
+      "branchLandingPageUrl": "/estate-agents/agent/OpenRent/London-96668.html",
+      "development": false,
+      "showReducedProperties": true,
       "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
       "buildToRent": false,
-      "isNew": false
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_37106_0000.png"
     },
-    "industryAffiliations": [
-      "Property Redress Scheme"
-    ],
-    "nearest_airports": [],
-    "nearest_stations": [
-      {
-        "name": "East Dulwich Station",
-        "distance": 0.4446564582122654
-      },
-      {
-        "name": "North Dulwich Station",
-        "distance": 0.6001469769776864
-      },
-      {
-        "name": "Denmark Hill Station",
-        "distance": 1.0484889571347127
-      }
-    ],
-    "sizings": [],
-    "brochures": []
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": "OpenRent is the UK&#39;s largest letting agent, using online services to make renting properties cheaper and more convenient than ever before - while holding quality and security as our top priorities. <br /><br />\nOpenRent has never charged any administration or agency fees. <br /><br />\nUnder the Tenant Fees Act 2019, landlords may charge you a fee if you lose keys or other security devices, or pay your rent late. You may also be asked for other permitted payments, such as a holding deposit when you begin your application. <br /><br />\nThere are no hidden fees or other charges when renting an OpenRent property. <br /><br />\nOpenRent is a proud member of the Property Ombudsman and holds comprehensive Client Money Protection via the government-authorised Propertymark Client Money Protection scheme. <br /><br />\nOpenRent is a registered agent in Scotland with registration number LARN1809026 and is a member of RentSmart Wales with license number #LR-75033-48352. <br /><br />\n",
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930730#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930730",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T18:09:32Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by OpenRent, London",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "2 bedroom flat"
+  },
+  {
+    "id": 163930727,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "numberOfImages": 5,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "Large Double room in shared house. Park Royal. 2 shared bathrooms and 1 shared kitchen. 10 minutes walk to Harlesden Station.Single parking space in driveway. Council Tax and Water included. Elec... ** Property Reference: 2458940 **",
+    "displayAddress": "Harold Road, London, NW10",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.53156,
+      "longitude": -0.261869
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "97k/96668/163930727/96668_245894022042025_IMG_00_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930727/96668_245894022042025_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930727/96668_245894022042025_IMG_01_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930727/96668_245894022042025_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930727/96668_245894022042025_IMG_02_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930727/96668_245894022042025_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930727/96668_245894022042025_IMG_03_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930727/96668_245894022042025_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930727/96668_245894022042025_IMG_04_0000.jpeg",
+          "caption": null,
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930727/96668_245894022042025_IMG_04_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930727/96668_245894022042025_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930727/96668_245894022042025_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "House Share",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:15:06Z"
+    },
+    "price": {
+      "amount": 750,
+      "frequency": "monthly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a3750 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3173 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 96668,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_37106_0000.png",
+      "contactTelephone": "020 3322 3265",
+      "branchDisplayName": "OpenRent, London",
+      "branchName": "London",
+      "brandTradingName": "OpenRent",
+      "branchLandingPageUrl": "/estate-agents/agent/OpenRent/London-96668.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_37106_0000.png"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": "OpenRent is the UK&#39;s largest letting agent, using online services to make renting properties cheaper and more convenient than ever before - while holding quality and security as our top priorities. <br /><br />\nOpenRent has never charged any administration or agency fees. <br /><br />\nUnder the Tenant Fees Act 2019, landlords may charge you a fee if you lose keys or other security devices, or pay your rent late. You may also be asked for other permitted payments, such as a holding deposit when you begin your application. <br /><br />\nThere are no hidden fees or other charges when renting an OpenRent property. <br /><br />\nOpenRent is a proud member of the Property Ombudsman and holds comprehensive Client Money Protection via the government-authorised Propertymark Client Money Protection scheme. <br /><br />\nOpenRent is a registered agent in Scotland with registration number LARN1809026 and is a member of RentSmart Wales with license number #LR-75033-48352. <br /><br />\n",
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930727#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930727",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T18:09:29Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by OpenRent, London",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "1 bedroom house share"
+  },
+  {
+    "id": 163930721,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "numberOfImages": 10,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "3 Bed Maisonette, Walham Green Court, SW6 We are proud to offer this delightful 3 bedroom, 2 bathroom maisonette in a great location. Available to move in from 28 June 2025. Property is offered... ** Property Reference: 1937104 **",
+    "displayAddress": "Walham Green Court, London, SW6",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.47889,
+      "longitude": -0.193226
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "97k/96668/163930721/96668_193710430122023_IMG_00_0000.jpeg",
+          "caption": "Kitchen",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930721/96668_193710430122023_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930721/96668_193710430122023_IMG_01_0000.jpeg",
+          "caption": "Kitchen",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930721/96668_193710430122023_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930721/96668_193710430122023_IMG_02_0000.jpeg",
+          "caption": "Sitting Room And Balcony",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930721/96668_193710430122023_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930721/96668_193710430122023_IMG_03_0000.jpeg",
+          "caption": "Master Bedroom With Storage/Wardrobe",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930721/96668_193710430122023_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930721/96668_193710430122023_IMG_04_0000.jpeg",
+          "caption": "Family Bathroom 1",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930721/96668_193710430122023_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930721/96668_193710430122023_IMG_05_0000.jpeg",
+          "caption": "Family Bathroom 2",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930721/96668_193710430122023_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930721/96668_193710430122023_IMG_06_0000.jpeg",
+          "caption": "Ensuite Basin",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930721/96668_193710430122023_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930721/96668_193710430122023_IMG_07_0000.jpeg",
+          "caption": "Ensuite Shower",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930721/96668_193710430122023_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930721/96668_193710430122023_IMG_08_0000.jpeg",
+          "caption": "Ensuite ",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930721/96668_193710430122023_IMG_08_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "97k/96668/163930721/96668_193710430122023_IMG_09_0000.jpeg",
+          "caption": "Hallway",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930721/96668_193710430122023_IMG_09_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930721/96668_193710430122023_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/97k/96668/163930721/96668_193710430122023_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Maisonette",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:15:06Z"
+    },
+    "price": {
+      "amount": 849,
+      "frequency": "weekly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a33,679 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3849 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 96668,
+      "brandPlusLogoURI": "/company/clogo_rmchoice_37106_0000.png",
+      "contactTelephone": "020 3322 3265",
+      "branchDisplayName": "OpenRent, London",
+      "branchName": "London",
+      "brandTradingName": "OpenRent",
+      "branchLandingPageUrl": "/estate-agents/agent/OpenRent/London-96668.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/company/clogo_rmchoice_37106_0000.png"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": "OpenRent is the UK&#39;s largest letting agent, using online services to make renting properties cheaper and more convenient than ever before - while holding quality and security as our top priorities. <br /><br />\nOpenRent has never charged any administration or agency fees. <br /><br />\nUnder the Tenant Fees Act 2019, landlords may charge you a fee if you lose keys or other security devices, or pay your rent late. You may also be asked for other permitted payments, such as a holding deposit when you begin your application. <br /><br />\nThere are no hidden fees or other charges when renting an OpenRent property. <br /><br />\nOpenRent is a proud member of the Property Ombudsman and holds comprehensive Client Money Protection via the government-authorised Propertymark Client Money Protection scheme. <br /><br />\nOpenRent is a registered agent in Scotland with registration number LARN1809026 and is a member of RentSmart Wales with license number #LR-75033-48352. <br /><br />\n",
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930721#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930721",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T18:09:26Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by OpenRent, London",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "3 bedroom maisonette"
+  },
+  {
+    "id": 163649780,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 17,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "A bright and stylish one bedroom apartment in the Ashbee, Brent Cross Town. This spacious fourth-floor apartment offers modern living in the heart of the exciting Brent Cross Town development. Presented with a brand new premium furniture pack ready for occupation. Property features:",
+    "displayAddress": "The Ashbee, Brent Cross Town, 20 Parkview Avenue, London, NW2",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.570482,
+      "longitude": -0.219203
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_00_0000.jpeg",
+          "caption": "Picture No. 34",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_01_0000.jpeg",
+          "caption": "Picture No. 33",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_02_0000.jpeg",
+          "caption": "Picture No. 29",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_03_0000.jpeg",
+          "caption": "Picture No. 30",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_04_0000.jpeg",
+          "caption": "Picture No. 32",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_05_0000.jpeg",
+          "caption": "Picture No. 35",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_06_0000.jpeg",
+          "caption": "Picture No. 36",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_07_0000.jpeg",
+          "caption": "Picture No. 37",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_08_0000.jpeg",
+          "caption": "Picture No. 38",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_08_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_09_0000.jpeg",
+          "caption": "Picture No. 39",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_09_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_10_0000.jpeg",
+          "caption": "Picture No. 40",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_10_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_11_0000.jpeg",
+          "caption": "Picture No. 41",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_11_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_12_0000.jpeg",
+          "caption": "Picture No. 42",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_12_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_13_0000.jpeg",
+          "caption": "Picture No. 43",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_13_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_14_0000.jpeg",
+          "caption": "Picture No. 44",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_14_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_15_0000.jpeg",
+          "caption": "Picture No. 28",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_15_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163649780/264878_CAN240831_L_IMG_16_0000.jpeg",
+          "caption": "Picture No. 01",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_16_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163649780/264878_CAN240831_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Apartment",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2025-06-28T18:14:46Z"
+    },
+    "price": {
+      "amount": 1800,
+      "frequency": "monthly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a31,800 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3415 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 264878,
+      "brandPlusLogoURI": "/265k/264878/branch_rmchoice_logo_264878_0000.jpeg",
+      "contactTelephone": "020 3667 9431",
+      "branchDisplayName": "Ernest Brooks International, Canary Wharf",
+      "branchName": "Canary Wharf",
+      "brandTradingName": "Ernest Brooks International",
+      "branchLandingPageUrl": "/estate-agents/agent/Ernest-Brooks-International/Canary-Wharf-264878.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/265k/264878/branch_rmchoice_logo_264878_0000.jpeg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163649780#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163649780",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-22T18:52:45Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Reduced today",
+    "formattedBranchName": " by Ernest Brooks International, Canary Wharf",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "1 bedroom apartment"
+  },
+  {
+    "id": 163930670,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 14,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "One bedroom apartment set within this stunning residential development, One Crown Place, located walking distance from London Liverpool Street & Moorgate Station. Comprising open-plan living area, stunning wooden flooring, private winter garden with full-sized windows, high-spec stylish integ...",
+    "displayAddress": "Sun Street, The City, London, EC2A",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.520626,
+      "longitude": -0.085895
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "98k/97423/163930670/97423_CEI242654_L_IMG_00_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930670/97423_CEI242654_L_IMG_01_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930670/97423_CEI242654_L_IMG_02_0000.jpeg",
+          "caption": "Kitchen",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930670/97423_CEI242654_L_IMG_03_0000.jpeg",
+          "caption": "Bedroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930670/97423_CEI242654_L_IMG_04_0000.jpeg",
+          "caption": "Bedroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930670/97423_CEI242654_L_IMG_05_0000.jpeg",
+          "caption": "Bathroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930670/97423_CEI242654_L_IMG_06_0000.jpeg",
+          "caption": "Gym",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930670/97423_CEI242654_L_IMG_07_0000.jpeg",
+          "caption": "Resident Lounge",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930670/97423_CEI242654_L_IMG_08_0000.jpeg",
+          "caption": "Resident Lounge",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_08_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930670/97423_CEI242654_L_IMG_09_0000.jpeg",
+          "caption": "Screening Room",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_09_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930670/97423_CEI242654_L_IMG_10_0000.jpeg",
+          "caption": "View",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_10_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930670/97423_CEI242654_L_IMG_11_0000.jpeg",
+          "caption": "View",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_11_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930670/97423_CEI242654_L_IMG_12_0000.jpeg",
+          "caption": "Exterior",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_12_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930670/97423_CEI242654_L_IMG_13_0000.jpeg",
+          "caption": "Floor Plan",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_13_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930670/97423_CEI242654_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:11:02Z"
+    },
+    "price": {
+      "amount": 795,
+      "frequency": "weekly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a33,445 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3795 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 97423,
+      "brandPlusLogoURI": "/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+      "contactTelephone": "020 3840 4014",
+      "branchDisplayName": "Chase Evans, City & Aldgate",
+      "branchName": "City & Aldgate",
+      "brandTradingName": "Chase Evans",
+      "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": true,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "53 sq. m.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930670#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930670",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T18:05:26Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": [
+        {
+          "type": "NEW_HOME",
+          "priority": 3
+        }
+      ]
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Chase Evans, City & Aldgate",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "1 bedroom flat"
+  },
+  {
+    "id": 163930667,
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "numberOfImages": 17,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "Luxury studio suite apartment in sought-after The Silk District development in Whitechapel E1, a short walk from the City of London. The property comprises of a bright open-plan living/dining area, integrated kitchen with floor-to-ceiling glazing open onto a balcony. The sleeping space comes with...",
+    "displayAddress": "Tapestry Way, Whitechapel, London, E1",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.518471,
+      "longitude": -0.057372
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_00_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_01_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_02_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_03_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_04_0000.jpeg",
+          "caption": "Kitchen",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_05_0000.jpeg",
+          "caption": "Bedroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_06_0000.jpeg",
+          "caption": "Bedroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_07_0000.jpeg",
+          "caption": "Bedroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_08_0000.jpeg",
+          "caption": "Bathroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_08_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_09_0000.jpeg",
+          "caption": "Gym",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_09_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_10_0000.jpeg",
+          "caption": "Residents Lounge",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_10_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_11_0000.jpeg",
+          "caption": "Gym",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_11_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_12_0000.jpeg",
+          "caption": "Gym",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_12_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_13_0000.jpeg",
+          "caption": "Cinema",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_13_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_14_0000.jpeg",
+          "caption": "Cinema",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_14_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_15_0000.jpeg",
+          "caption": "View",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_15_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930667/97423_CEA240198_L_IMG_16_0000.jpeg",
+          "caption": "Exterior",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_16_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930667/97423_CEA240198_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:10:04Z"
+    },
+    "price": {
+      "amount": 510,
+      "frequency": "weekly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a32,210 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3510 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 97423,
+      "brandPlusLogoURI": "/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+      "contactTelephone": "020 3840 4014",
+      "branchDisplayName": "Chase Evans, City & Aldgate",
+      "branchName": "City & Aldgate",
+      "brandTradingName": "Chase Evans",
+      "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "4 sq. m.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930667#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930667",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T18:04:46Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Chase Evans, City & Aldgate",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "Studio flat"
+  },
+  {
+    "id": 163930664,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "numberOfImages": 6,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "A contemporary two bedroom apartment within Sculpture House development. This furnished apartment benefits from wood flooring, open plan kitchen with high quality appointments and two modern bathrooms. The large balcony will provided a pleasing setting for residents. Sculpture House also benefits...",
+    "displayAddress": "Killick Way, Stepney Green, LondonFlat 506 Sculptu, E1",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.520336,
+      "longitude": -0.041204
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "98k/97423/163930664/97423_CEI230481_L_IMG_00_0000.jpeg",
+          "caption": "Living Room",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930664/97423_CEI230481_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930664/97423_CEI230481_L_IMG_01_0000.jpeg",
+          "caption": "Kitchen",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930664/97423_CEI230481_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930664/97423_CEI230481_L_IMG_02_0000.jpeg",
+          "caption": "Bathroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930664/97423_CEI230481_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930664/97423_CEI230481_L_IMG_03_0000.jpeg",
+          "caption": "Bedroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930664/97423_CEI230481_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930664/97423_CEI230481_L_IMG_04_0000.jpeg",
+          "caption": "Bedroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930664/97423_CEI230481_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930664/97423_CEI230481_L_IMG_05_0000.jpeg",
+          "caption": "Exterior",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930664/97423_CEI230481_L_IMG_05_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930664/97423_CEI230481_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930664/97423_CEI230481_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:10:04Z"
+    },
+    "price": {
+      "amount": 520,
+      "frequency": "weekly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a32,253 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3520 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 97423,
+      "brandPlusLogoURI": "/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+      "contactTelephone": "020 3840 4014",
+      "branchDisplayName": "Chase Evans, City & Aldgate",
+      "branchName": "City & Aldgate",
+      "brandTradingName": "Chase Evans",
+      "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "68 sq. m.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930664#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930664",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T18:04:17Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Chase Evans, City & Aldgate",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "2 bedroom flat"
+  },
+  {
+    "id": 163930658,
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "numberOfImages": 9,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "This west facing one bedroom manhattan suite apartment offers (559 sqft) of accommodation and located on the 55th floor, situated within Landmark Pinnacle, Canary Wharf, E14. Boasting full height windows offering arguably the best view in London. Underfloor heating throughout alongside...",
+    "displayAddress": "Landmark Pinnacle, 10 Marsh Wall, London, E14",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.502161,
+      "longitude": -0.025139
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "265k/264878/163930658/264878_CAN211665_L_IMG_00_0000.jpeg",
+          "caption": "Picture No. 01",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163930658/264878_CAN211665_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163930658/264878_CAN211665_L_IMG_01_0000.jpeg",
+          "caption": "Picture No. 02",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163930658/264878_CAN211665_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163930658/264878_CAN211665_L_IMG_02_0000.jpeg",
+          "caption": "Picture No. 03",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163930658/264878_CAN211665_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163930658/264878_CAN211665_L_IMG_03_0000.jpeg",
+          "caption": "Picture No. 04",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163930658/264878_CAN211665_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163930658/264878_CAN211665_L_IMG_04_0000.jpeg",
+          "caption": "Picture No. 05",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163930658/264878_CAN211665_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163930658/264878_CAN211665_L_IMG_05_0000.jpeg",
+          "caption": "Picture No. 06",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163930658/264878_CAN211665_L_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163930658/264878_CAN211665_L_IMG_06_0000.jpeg",
+          "caption": "Picture No. 07",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163930658/264878_CAN211665_L_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163930658/264878_CAN211665_L_IMG_07_0000.jpeg",
+          "caption": "Picture No. 08",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163930658/264878_CAN211665_L_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163930658/264878_CAN211665_L_IMG_08_0000.jpeg",
+          "caption": "Picture No. 09",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163930658/264878_CAN211665_L_IMG_08_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163930658/264878_CAN211665_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163930658/264878_CAN211665_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Apartment",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:10:04Z"
+    },
+    "price": {
+      "amount": 2700,
+      "frequency": "monthly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a32,700 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3623 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 264878,
+      "brandPlusLogoURI": "/265k/264878/branch_rmchoice_logo_264878_0000.jpeg",
+      "contactTelephone": "020 3667 9431",
+      "branchDisplayName": "Ernest Brooks International, Canary Wharf",
+      "branchName": "Canary Wharf",
+      "brandTradingName": "Ernest Brooks International",
+      "branchLandingPageUrl": "/estate-agents/agent/Ernest-Brooks-International/Canary-Wharf-264878.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/265k/264878/branch_rmchoice_logo_264878_0000.jpeg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930658#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930658",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T18:04:05Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Ernest Brooks International, Canary Wharf",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "Studio apartment"
+  },
+  {
+    "id": 163930655,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 7,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "A bright one bedroom apartment on the ground floor of The Ladbroke Grove\u2019s Atrium Apartments; an impressive development by Taylor Wimpey. This furnished apartment includes an open plan living and dining area, fitted kitchen with integrated Siemens appliances, wood flooring, full length wind...",
+    "displayAddress": "12 West Row, The Ladbroke Grove, Ladbroke Grove, W10",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.525986,
+      "longitude": -0.21378
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "98k/97423/163930655/97423_CEI242280_L_IMG_00_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930655/97423_CEI242280_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930655/97423_CEI242280_L_IMG_01_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930655/97423_CEI242280_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930655/97423_CEI242280_L_IMG_02_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930655/97423_CEI242280_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930655/97423_CEI242280_L_IMG_03_0000.jpeg",
+          "caption": "Kitchen",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930655/97423_CEI242280_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930655/97423_CEI242280_L_IMG_04_0000.jpeg",
+          "caption": "Bedroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930655/97423_CEI242280_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930655/97423_CEI242280_L_IMG_05_0000.jpeg",
+          "caption": "Bathroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930655/97423_CEI242280_L_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930655/97423_CEI242280_L_IMG_06_0000.jpeg",
+          "caption": "Exterior",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930655/97423_CEI242280_L_IMG_06_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930655/97423_CEI242280_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930655/97423_CEI242280_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:09:03Z"
+    },
+    "price": {
+      "amount": 500,
+      "frequency": "weekly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a32,167 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3500 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 97423,
+      "brandPlusLogoURI": "/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+      "contactTelephone": "020 3840 4014",
+      "branchDisplayName": "Chase Evans, City & Aldgate",
+      "branchName": "City & Aldgate",
+      "brandTradingName": "Chase Evans",
+      "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "50 sq. m.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930655#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930655",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T18:03:44Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Chase Evans, City & Aldgate",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "1 bedroom flat"
+  },
+  {
+    "id": 163930643,
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "numberOfImages": 15,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 1,
+    "summary": "Modern studio apartment with a balcony in Kensington Apartments, within the impressive Cityscape development a short walk to the City, Aldgate E1. This designer furnished studio apartment includes an open-plan kitchen/living area with a sleeping quarter and a modern bathroom. Features include int...",
+    "displayAddress": "Cityscape, 11 Commercial Street, Aldgate, London, E1",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.516014,
+      "longitude": -0.072841
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_00_0000.jpeg",
+          "caption": "Living Area",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_01_0000.jpeg",
+          "caption": "Living Area",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_02_0000.jpeg",
+          "caption": "Kitchen",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_03_0000.jpeg",
+          "caption": "Living Area",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_04_0000.jpeg",
+          "caption": "Living Area",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_05_0000.jpeg",
+          "caption": "Sleeping Quarter",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_06_0000.jpeg",
+          "caption": "Sleeping Quarter",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_07_0000.jpeg",
+          "caption": "Bathroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_08_0000.jpeg",
+          "caption": "Balcony",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_08_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_09_0000.jpeg",
+          "caption": "Balcony",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_09_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_10_0000.jpeg",
+          "caption": "Communal Gardens",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_10_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_11_0000.jpeg",
+          "caption": "Gym",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_11_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_12_0000.jpeg",
+          "caption": "Concierge",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_12_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_13_0000.jpeg",
+          "caption": "Rooftop",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_13_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930643/97423_CEI241263_L_IMG_14_0000.jpeg",
+          "caption": "Exterior",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_14_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930643/97423_CEI241263_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:08:03Z"
+    },
+    "price": {
+      "amount": 520,
+      "frequency": "weekly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a32,253 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3520 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 97423,
+      "brandPlusLogoURI": "/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+      "contactTelephone": "020 3840 4014",
+      "branchDisplayName": "Chase Evans, City & Aldgate",
+      "branchName": "City & Aldgate",
+      "brandTradingName": "Chase Evans",
+      "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "39 sq. m.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930643#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930643",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T18:02:18Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Chase Evans, City & Aldgate",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "Studio flat"
+  },
+  {
+    "id": 163165916,
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "numberOfImages": 21,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "Rare opportunity to let an exquisite residential manhattan-style one bed / two bathroom apartment, situated on the 10th floor of the South tower in the formidable Mandarin Oriental Residence. Boasting the highest possible specification living space. Situated on Hanover Square, Mayfair...",
+    "displayAddress": "Mandarin Oriental Residence, 22 Hanover Square, Mayfair, W1S",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.513403,
+      "longitude": -0.144153
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_00_0000.jpeg",
+          "caption": "Picture No. 24",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_01_0000.jpeg",
+          "caption": "Picture No. 23",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_02_0000.jpeg",
+          "caption": "Picture No. 20",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_03_0000.jpeg",
+          "caption": "Picture No. 22",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_04_0000.jpeg",
+          "caption": "Picture No. 21",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_05_0000.jpeg",
+          "caption": "Picture No. 25",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_06_0000.jpeg",
+          "caption": "Picture No. 26",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_07_0000.jpeg",
+          "caption": "Picture No. 27",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_08_0000.jpeg",
+          "caption": "Picture No. 28",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_08_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_09_0000.jpeg",
+          "caption": "Picture No. 29",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_09_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_10_0000.jpeg",
+          "caption": "Picture No. 30",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_10_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_11_0000.jpeg",
+          "caption": "Picture No. 33",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_11_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_12_0000.jpeg",
+          "caption": "Picture No. 31",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_12_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_13_0000.jpeg",
+          "caption": "Picture No. 36",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_13_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_14_0000.jpeg",
+          "caption": "Picture No. 40",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_14_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_15_0000.jpeg",
+          "caption": "Picture No. 41",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_15_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_16_0000.jpeg",
+          "caption": "Picture No. 42",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_16_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_17_0000.jpeg",
+          "caption": "Picture No. 43",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_17_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_18_0000.jpeg",
+          "caption": "Picture No. 44",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_18_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_19_0000.jpeg",
+          "caption": "Picture No. 45",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_19_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/163165916/264878_CAN231735_L_IMG_20_0000.jpeg",
+          "caption": "Picture No. 34",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_20_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/163165916/264878_CAN231735_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Apartment",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2025-06-28T18:07:29Z"
+    },
+    "price": {
+      "amount": 6500,
+      "frequency": "monthly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a36,500 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a31,500 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 264878,
+      "brandPlusLogoURI": "/265k/264878/branch_rmchoice_logo_264878_0000.jpeg",
+      "contactTelephone": "020 3667 9431",
+      "branchDisplayName": "Ernest Brooks International, Canary Wharf",
+      "branchName": "Canary Wharf",
+      "brandTradingName": "Ernest Brooks International",
+      "branchLandingPageUrl": "/estate-agents/agent/Ernest-Brooks-International/Canary-Wharf-264878.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/265k/264878/branch_rmchoice_logo_264878_0000.jpeg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163165916#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163165916",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-11T15:13:34Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Reduced today",
+    "formattedBranchName": " by Ernest Brooks International, Canary Wharf",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "Studio apartment"
+  },
+  {
+    "id": 163930637,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "numberOfImages": 5,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "Modern spacious, two bedrooms, two bathrooms apartment is part of a modern and very popular development with a 24-hour concierge and fitness facilities close to both, Aldgate East and Whitechapel stations. The quiet accommodation comprises an open plan, fully integrated living room/ kitchen which...",
+    "displayAddress": "Commercial Street, Aldgate, London, E1",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.516197,
+      "longitude": -0.07317
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "98k/97423/163930637/97423_CEI242182_L_IMG_00_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930637/97423_CEI242182_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930637/97423_CEI242182_L_IMG_01_0000.jpeg",
+          "caption": "Kitchen",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930637/97423_CEI242182_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930637/97423_CEI242182_L_IMG_02_0000.jpeg",
+          "caption": "Bedroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930637/97423_CEI242182_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930637/97423_CEI242182_L_IMG_03_0000.jpeg",
+          "caption": "Bathroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930637/97423_CEI242182_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930637/97423_CEI242182_L_IMG_04_0000.jpeg",
+          "caption": "Exterior",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930637/97423_CEI242182_L_IMG_04_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930637/97423_CEI242182_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930637/97423_CEI242182_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:07:02Z"
+    },
+    "price": {
+      "amount": 800,
+      "frequency": "weekly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a33,467 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3800 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 97423,
+      "brandPlusLogoURI": "/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+      "contactTelephone": "020 3840 4014",
+      "branchDisplayName": "Chase Evans, City & Aldgate",
+      "branchName": "City & Aldgate",
+      "brandTradingName": "Chase Evans",
+      "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "72 sq. m.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930637#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930637",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T18:01:11Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Chase Evans, City & Aldgate",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "2 bedroom flat"
+  },
+  {
+    "id": 162289487,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 10,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "This well positioned 16th floor one bedroom apartment benefits from east views towards the River Thames, Docks & the O2 Arena. Williamsburg Plaza is situated within walking distance to Blackwall & Poplar DLR stations enabling residents to reach the City (Bank) in 11 minutes, h...",
+    "displayAddress": "Roosevelt Tower, 18 Williamsburg Plaza, Poplar, E14",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.495111,
+      "longitude": -0.018091
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "265k/264878/162289487/264878_CAN212892_L_IMG_00_0000.jpeg",
+          "caption": "Picture No. 06",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/162289487/264878_CAN212892_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/162289487/264878_CAN212892_L_IMG_01_0000.jpeg",
+          "caption": "Picture No. 05",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/162289487/264878_CAN212892_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/162289487/264878_CAN212892_L_IMG_02_0000.jpeg",
+          "caption": "Picture No. 04",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/162289487/264878_CAN212892_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/162289487/264878_CAN212892_L_IMG_03_0000.jpeg",
+          "caption": "Picture No. 02",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/162289487/264878_CAN212892_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/162289487/264878_CAN212892_L_IMG_04_0000.jpeg",
+          "caption": "Picture No. 03",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/162289487/264878_CAN212892_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/162289487/264878_CAN212892_L_IMG_05_0000.jpeg",
+          "caption": "Picture No. 07",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/162289487/264878_CAN212892_L_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/162289487/264878_CAN212892_L_IMG_06_0000.jpeg",
+          "caption": "Picture No. 08",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/162289487/264878_CAN212892_L_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/162289487/264878_CAN212892_L_IMG_07_0000.jpeg",
+          "caption": "Picture No. 01",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/162289487/264878_CAN212892_L_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/162289487/264878_CAN212892_L_IMG_08_0000.jpeg",
+          "caption": "Picture No. 09",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/162289487/264878_CAN212892_L_IMG_08_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "265k/264878/162289487/264878_CAN212892_L_IMG_09_0000.jpeg",
+          "caption": "Picture No. 10",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/162289487/264878_CAN212892_L_IMG_09_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/162289487/264878_CAN212892_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/265k/264878/162289487/264878_CAN212892_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Apartment",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2025-06-28T18:07:01Z"
+    },
+    "price": {
+      "amount": 2150,
+      "frequency": "monthly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a32,150 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3496 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 264878,
+      "brandPlusLogoURI": "/265k/264878/branch_rmchoice_logo_264878_0000.jpeg",
+      "contactTelephone": "020 3667 9431",
+      "branchDisplayName": "Ernest Brooks International, Canary Wharf",
+      "branchName": "Canary Wharf",
+      "brandTradingName": "Ernest Brooks International",
+      "branchLandingPageUrl": "/estate-agents/agent/Ernest-Brooks-International/Canary-Wharf-264878.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/265k/264878/branch_rmchoice_logo_264878_0000.jpeg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/162289487#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=162289487",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-05-22T10:28:59Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Reduced today",
+    "formattedBranchName": " by Ernest Brooks International, Canary Wharf",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "1 bedroom apartment"
+  },
+  {
+    "id": 163930631,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 6,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "Luxury one bed apartment situated within this Berkeley Homes development. This stunning apartment, set within a distinguished Edwardian building has been recently renovated and offers a spacious living and dining area, fully fitted open-plan kitchen, built-in wardrobes and superb finishing throug...",
+    "displayAddress": "Leman Street, London, E1",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.513664,
+      "longitude": -0.069735
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "98k/97423/163930631/97423_CEI243205_L_IMG_00_0000.jpeg",
+          "caption": "Exterior",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930631/97423_CEI243205_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930631/97423_CEI243205_L_IMG_01_0000.jpeg",
+          "caption": "Exterior",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930631/97423_CEI243205_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930631/97423_CEI243205_L_IMG_02_0000.jpeg",
+          "caption": "Pool",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930631/97423_CEI243205_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930631/97423_CEI243205_L_IMG_03_0000.jpeg",
+          "caption": "Gym",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930631/97423_CEI243205_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930631/97423_CEI243205_L_IMG_04_0000.jpeg",
+          "caption": "Cinema",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930631/97423_CEI243205_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930631/97423_CEI243205_L_IMG_05_0000.jpeg",
+          "caption": "Floorplan",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930631/97423_CEI243205_L_IMG_05_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930631/97423_CEI243205_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930631/97423_CEI243205_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:06:05Z"
+    },
+    "price": {
+      "amount": 625,
+      "frequency": "weekly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a32,708 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3625 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 97423,
+      "brandPlusLogoURI": "/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+      "contactTelephone": "020 3840 4014",
+      "branchDisplayName": "Chase Evans, City & Aldgate",
+      "branchName": "City & Aldgate",
+      "brandTradingName": "Chase Evans",
+      "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "46 sq. m.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930631#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930631",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T18:00:40Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Chase Evans, City & Aldgate",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "1 bedroom flat"
+  },
+  {
+    "id": 163930625,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "numberOfImages": 1,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "Luxury two bed, two bath apartment with amazing city views within the Crawford Building, Aldgate E1. Ideally located for the City\u2019s transport links and amenities, this designer furnished apartment includes a spacious living and dining area, fitted kitchen with integrated appliances, floor-t...",
+    "displayAddress": "Whitechapel High Street, Aldgate, London, E1",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.515388,
+      "longitude": -0.07513
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "98k/97423/163930625/97423_CEI242947_L_IMG_00_0000.jpeg",
+          "caption": "Crawford Building, A",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930625/97423_CEI242947_L_IMG_00_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930625/97423_CEI242947_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930625/97423_CEI242947_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:06:05Z"
+    },
+    "price": {
+      "amount": 800,
+      "frequency": "weekly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a33,467 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3800 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 97423,
+      "brandPlusLogoURI": "/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+      "contactTelephone": "020 3840 4014",
+      "branchDisplayName": "Chase Evans, City & Aldgate",
+      "branchName": "City & Aldgate",
+      "brandTradingName": "Chase Evans",
+      "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "74 sq. m.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930625#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930625",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T18:00:04Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Chase Evans, City & Aldgate",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "2 bedroom flat"
+  },
+  {
+    "id": 163930613,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 6,
+    "numberOfFloorplans": 1,
+    "numberOfVirtualTours": 0,
+    "summary": "Stunning 635 sq ft one-bedroom flat on 1st floor in Meranti House, with the sought-after Goodman\u2019s Fields E1. Comprising a bright, spacious living area with a generous private terrace and a high specification fitted & integrated kitchen, a large double bedroom with a fitted wardrobe and...",
+    "displayAddress": "Alie Street, Aldgate, London, E1",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.514267,
+      "longitude": -0.071287
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "98k/97423/163930613/97423_CEI241456_L_IMG_00_0000.jpeg",
+          "caption": "Living Area",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930613/97423_CEI241456_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930613/97423_CEI241456_L_IMG_01_0000.jpeg",
+          "caption": "Living Area",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930613/97423_CEI241456_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930613/97423_CEI241456_L_IMG_02_0000.jpeg",
+          "caption": "Kitchen",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930613/97423_CEI241456_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930613/97423_CEI241456_L_IMG_03_0000.jpeg",
+          "caption": "Bedroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930613/97423_CEI241456_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930613/97423_CEI241456_L_IMG_04_0000.jpeg",
+          "caption": "Bathroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930613/97423_CEI241456_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930613/97423_CEI241456_L_IMG_05_0000.jpeg",
+          "caption": "Exterior",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930613/97423_CEI241456_L_IMG_05_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930613/97423_CEI241456_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930613/97423_CEI241456_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:04:05Z"
+    },
+    "price": {
+      "amount": 640,
+      "frequency": "weekly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a32,773 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3640 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 97423,
+      "brandPlusLogoURI": "/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+      "contactTelephone": "020 3840 4014",
+      "branchDisplayName": "Chase Evans, City & Aldgate",
+      "branchName": "City & Aldgate",
+      "brandTradingName": "Chase Evans",
+      "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "59 sq. m.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930613#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930613",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T17:58:55Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Chase Evans, City & Aldgate",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "1 bedroom flat"
+  },
+  {
+    "id": 163930607,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 11,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "Contemporary one bedroom apartment within Lattice House, a modern development located in Aldgate E1. The apartment includes an inviting open plan living space with wood flooring, a fully integrated kitchen, a good sized bedroom and a contemporary bathroom. ",
+    "displayAddress": "Alie Street, Aldgate, London, E1",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.513298,
+      "longitude": -0.074686
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "98k/97423/163930607/97423_CEI241958_L_IMG_00_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930607/97423_CEI241958_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930607/97423_CEI241958_L_IMG_01_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930607/97423_CEI241958_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930607/97423_CEI241958_L_IMG_02_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930607/97423_CEI241958_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930607/97423_CEI241958_L_IMG_03_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930607/97423_CEI241958_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930607/97423_CEI241958_L_IMG_04_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930607/97423_CEI241958_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930607/97423_CEI241958_L_IMG_05_0000.jpeg",
+          "caption": "Kitchen",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930607/97423_CEI241958_L_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930607/97423_CEI241958_L_IMG_06_0000.jpeg",
+          "caption": "Kitchen",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930607/97423_CEI241958_L_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930607/97423_CEI241958_L_IMG_07_0000.jpeg",
+          "caption": "Bedroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930607/97423_CEI241958_L_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930607/97423_CEI241958_L_IMG_08_0000.jpeg",
+          "caption": "Hallway",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930607/97423_CEI241958_L_IMG_08_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930607/97423_CEI241958_L_IMG_09_0000.jpeg",
+          "caption": "Bathroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930607/97423_CEI241958_L_IMG_09_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930607/97423_CEI241958_L_IMG_10_0000.jpeg",
+          "caption": "Exterior",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930607/97423_CEI241958_L_IMG_10_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930607/97423_CEI241958_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930607/97423_CEI241958_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:03:03Z"
+    },
+    "price": {
+      "amount": 520,
+      "frequency": "weekly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a32,253 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3520 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 97423,
+      "brandPlusLogoURI": "/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+      "contactTelephone": "020 3840 4014",
+      "branchDisplayName": "Chase Evans, City & Aldgate",
+      "branchName": "City & Aldgate",
+      "brandTradingName": "Chase Evans",
+      "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "50 sq. m.",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930607#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930607",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T17:57:43Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Chase Evans, City & Aldgate",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "1 bedroom flat"
+  },
+  {
+    "id": 163930601,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 13,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 1,
+    "summary": "One bedroom apartment set in Bouchon Point, forming part of The Silk District development in Whitechapel, E1, a short walk from the City of London. This property comprises a spacious open-plan living area, stylish kitchen with integrated appliances, private balcony, generous bedroom, luxury bathr...",
+    "displayAddress": "Cendal Crescent, Whitechapel, London, E1",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.517731,
+      "longitude": -0.055893
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "98k/97423/163930601/97423_CEI241297_L_IMG_00_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930601/97423_CEI241297_L_IMG_01_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930601/97423_CEI241297_L_IMG_02_0000.jpeg",
+          "caption": "Living",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930601/97423_CEI241297_L_IMG_03_0000.jpeg",
+          "caption": "Kitchen",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_03_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930601/97423_CEI241297_L_IMG_04_0000.jpeg",
+          "caption": "Kitchen",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_04_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930601/97423_CEI241297_L_IMG_05_0000.jpeg",
+          "caption": "Bedroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_05_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930601/97423_CEI241297_L_IMG_06_0000.jpeg",
+          "caption": "Bedroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_06_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930601/97423_CEI241297_L_IMG_07_0000.jpeg",
+          "caption": "Bathroom",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_07_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930601/97423_CEI241297_L_IMG_08_0000.jpeg",
+          "caption": "Gym",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_08_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930601/97423_CEI241297_L_IMG_09_0000.jpeg",
+          "caption": "Gym",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_09_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930601/97423_CEI241297_L_IMG_10_0000.jpeg",
+          "caption": "Exterior",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_10_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930601/97423_CEI241297_L_IMG_11_0000.jpeg",
+          "caption": "View",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_11_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "98k/97423/163930601/97423_CEI241297_L_IMG_12_0000.jpeg",
+          "caption": "Floor Plan",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_12_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/98k/97423/163930601/97423_CEI241297_L_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "new",
+      "listingUpdateDate": "2025-06-28T18:03:02Z"
+    },
+    "price": {
+      "amount": 600,
+      "frequency": "weekly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a32,600 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3600 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 97423,
+      "brandPlusLogoURI": "/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg",
+      "contactTelephone": "020 3840 4014",
+      "branchDisplayName": "Chase Evans, City & Aldgate",
+      "branchName": "City & Aldgate",
+      "brandTradingName": "Chase Evans",
+      "branchLandingPageUrl": "/estate-agents/agent/Chase-Evans/City-and-Aldgate-97423.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/ama/branch-profile/1732285318/3c26a461-51aa-49cf-85be-62baa0ff0cbe_max_135x135.jpg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": true,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163930601#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163930601",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-28T17:57:06Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": [
+        {
+          "type": "NEW_HOME",
+          "priority": 3
+        }
+      ]
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Added today",
+    "formattedBranchName": " by Chase Evans, City & Aldgate",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "1 bedroom flat"
+  },
+  {
+    "id": 163543943,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "numberOfImages": 4,
+    "numberOfFloorplans": 0,
+    "numberOfVirtualTours": 0,
+    "summary": "Bright and Modern One-Bedroom Oasis!Modern living at its best! This newly refurbished apartment boasts:- Spacious bedroom, s",
+    "displayAddress": "london, SE5",
+    "countryCode": "GB",
+    "location": {
+      "latitude": 51.4686,
+      "longitude": -0.101192
+    },
+    "propertyImages": {
+      "images": [
+        {
+          "url": "287k/286994/163543943/286994_ssml_763760529_IMG_00_0000.jpeg",
+          "caption": "Eastlake Rd, London SE5",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/287k/286994/163543943/286994_ssml_763760529_IMG_00_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "287k/286994/163543943/286994_ssml_763760529_IMG_01_0000.jpeg",
+          "caption": "Gallery",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/287k/286994/163543943/286994_ssml_763760529_IMG_01_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "287k/286994/163543943/286994_ssml_763760529_IMG_02_0000.jpeg",
+          "caption": "Gallery",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/287k/286994/163543943/286994_ssml_763760529_IMG_02_0000_max_476x317.jpeg"
+        },
+        {
+          "url": "287k/286994/163543943/286994_ssml_763760529_IMG_03_0000.jpeg",
+          "caption": "Gallery",
+          "srcUrl": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/287k/286994/163543943/286994_ssml_763760529_IMG_03_0000_max_476x317.jpeg"
+        }
+      ],
+      "mainImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/287k/286994/163543943/286994_ssml_763760529_IMG_00_0000_max_476x317.jpeg",
+      "mainMapImageSrc": "https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/287k/286994/163543943/286994_ssml_763760529_IMG_00_0000_max_296x197.jpeg"
+    },
+    "propertySubType": "Flat",
+    "listingUpdate": {
+      "listingUpdateReason": "price_reduced",
+      "listingUpdateDate": "2025-06-28T17:57:22Z"
+    },
+    "price": {
+      "amount": 1750,
+      "frequency": "monthly",
+      "currencyCode": "GBP",
+      "displayPrices": [
+        {
+          "displayPrice": "\u00a31,750 pcm",
+          "displayPriceQualifier": ""
+        },
+        {
+          "displayPrice": "\u00a3404 pw",
+          "displayPriceQualifier": ""
+        }
+      ]
+    },
+    "premiumListing": false,
+    "featuredProperty": false,
+    "customer": {
+      "branchId": 286994,
+      "brandPlusLogoURI": "/287k/286994/branch_rmchoice_logo_286994_0000.jpeg",
+      "contactTelephone": "020 3835 6148",
+      "branchDisplayName": "S Stone Management, Croydon",
+      "branchName": "Croydon",
+      "brandTradingName": "S Stone Management",
+      "branchLandingPageUrl": "/estate-agents/agent/S-Stone-Management/Croydon-286994.html",
+      "development": false,
+      "showReducedProperties": true,
+      "commercial": false,
+      "showOnMap": true,
+      "enhancedListing": false,
+      "developmentContent": null,
+      "buildToRent": false,
+      "buildToRentBenefits": [],
+      "brandPlusLogoUrl": "https://media.rightmove.co.uk:443/287k/286994/branch_rmchoice_logo_286994_0000.jpeg"
+    },
+    "distance": null,
+    "transactionType": "rent",
+    "productLabel": {
+      "productLabelText": null,
+      "spotlightLabel": false
+    },
+    "commercial": false,
+    "development": false,
+    "residential": true,
+    "students": false,
+    "auction": false,
+    "feesApply": true,
+    "feesApplyText": null,
+    "displaySize": "",
+    "showOnMap": true,
+    "propertyUrl": "/properties/163543943#/?channel=RES_LET",
+    "contactUrl": "/property-to-rent/contactBranch.html?propertyId=163543943",
+    "staticMapUrl": null,
+    "channel": "RENT",
+    "firstVisibleDate": "2025-06-19T15:52:23Z",
+    "keywords": [],
+    "keywordMatchType": "no_keyword",
+    "saved": false,
+    "hidden": false,
+    "onlineViewingsAvailable": false,
+    "lozengeModel": {
+      "matchingLozenges": []
+    },
+    "hasBrandPlus": true,
+    "displayStatus": "",
+    "enquiredTimestamp": null,
+    "enquiryAddedTimestamp": null,
+    "enquiryCalledTimestamp": null,
+    "heading": "",
+    "isRecent": true,
+    "enhancedListing": false,
+    "addedOrReduced": "Reduced today",
+    "formattedBranchName": " by S Stone Management, Croydon",
+    "formattedDistance": "",
+    "propertyTypeFullDescription": "1 bedroom flat"
   }
 ]

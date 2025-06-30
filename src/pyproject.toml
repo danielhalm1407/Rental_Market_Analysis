@@ -3,9 +3,9 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-name = "econ_utils"
+name = "rental_utils"
 version = "0.0.1"
-description = "econ utils"
+description = "rental utils"
 authors = ["Daniel Halm Alvarez <Jd.w.halm-alvarez@lse.ac.uk>"]
 
 [tool.poetry.dependencies]

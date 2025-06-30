@@ -54,12 +54,18 @@ if not location_input.strip():
     location_input = "london"
 print(f"You entered: {location_input}")
 
+## Ask the user for how many properties they wish to systematically go through
+total_results_input = input("How many flats do you want to scrape through? (Default, 250): ")
+if not total_results_input.strip():
+    total_results_input = 250
+print(f"You entered: {total_results_input}")
+
 
 # Run the scraping
 async def run():
     chosen_id = (await rent.find_locations(location_input))[0]
     logging.info(f'City id found to be: {chosen_id}')
-    chosen_results = await rent.scrape_search(chosen_id)
+    chosen_results = await rent.scrape_search(chosen_id, int(total_results_input))
     print_input = input("Print Results? [y/n]")
     if str.lower(print_input) == "y":
         print(json.dumps(chosen_results, indent=2))
@@ -68,7 +74,7 @@ async def run():
     logging.info('Saving Json Output')
     with open(f"{data_folder_path}/rightmove_properties.json", "w", encoding="utf-8") as f:
         f.write(json.dumps(chosen_results, indent=2))
-    logging.info(f'Json output saved to ')
+    logging.info(f'Json output saved to {data_folder_path}/rightmove_properties.json')
 
 if __name__ == "__main__":
     asyncio.run(run())

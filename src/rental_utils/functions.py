@@ -72,7 +72,7 @@ async def find_locations(query: str) -> List[str]:
 
 
 ### Function to scrape results for a given location for multiple pages
-async def scrape_search(location_id: str) -> str:
+async def scrape_search(location_id: str, total_results = 250) -> str:
     """
     Scrapes rental property listings from Rightmove for a given location identifier, handling pagination and returning all results.
     """
@@ -104,18 +104,17 @@ async def scrape_search(location_id: str) -> str:
     # Parse the JSON response from the first page
     first_page_data = first_page.json()
     results = first_page_data["properties"]
-    total_results = len(results)
 
     # Prepare to fetch additional pages if there are more results
     other_pages = []
     # rightmove sets the API limit to 1000 properties, but here max_api_results is set to 20 for demonstration/testing
-    max_api_results = 200    
+    max_api_results = 1000    
     # The 'index' parameter in the URL specifies the starting property for each page
     for offset in range(RESULTS_PER_PAGE, total_results, RESULTS_PER_PAGE):
         # Stop scraping more pages when the scraper reaches the API limit
         if offset >= max_api_results: 
             break
-        # print(f"Scheduling request for offset: {offset}")
+        print(f"Scheduling request for offset: {offset}")
         # Schedule the request for the next page
         other_pages.append(client.get(make_url(offset)))
     # Asynchronously (using async) gather and process all additional page responses
@@ -129,6 +128,7 @@ async def scrape_search(location_id: str) -> str:
     total_results = len(results)
     print(f"Found {total_results} properties")
     return results
+
 
 
 

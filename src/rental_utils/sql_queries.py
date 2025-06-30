@@ -36,4 +36,47 @@ def make_table(df, name, engine, if_exists='append'):
     df.to_sql(name, engine, if_exists=if_exists, index=False)
 
 #SQL QUERIES
-DROP_TABLE_SQL_QUERY = "DROP TABLE IF EXISTS bloomberg_rankings;"
+CREATE_TABLE_SQL_QUERY = """
+CREATE TABLE properties_data (
+    id INTEGER PRIMARY KEY,
+    price_per_bed REAL,
+    predicted_price_per_bed REAL,
+    travel_time INTEGER,
+    distance INTEGER,
+    bedrooms INTEGER,
+    bathrooms INTEGER,
+    numberOfImages INTEGER,
+    displayAddress TEXT,
+    latitude REAL,
+    longitude REAL,
+    propertySubType TEXT,
+    listingUpdateReason TEXT,
+    listingUpdateDate TEXT,
+    priceAmount INTEGER,
+    priceFrequency TEXT,
+    premiumListing BOOLEAN,
+    featuredProperty BOOLEAN,
+    transactionType TEXT,
+    students BOOLEAN,
+    displaySize TEXT,
+    propertyUrl TEXT,
+    firstVisibleDate TEXT,
+    addedOrReduced TEXT,
+    propertyTypeFullDescription TEXT
+    
+);
+"""
+
+DROP_PROPERTIES_TABLE_SQL_QUERY = "DROP TABLE IF EXISTS properties_data;"
+
+GET_RIGHTMOVE_DATA_SQL_QUERY = """
+SELECT  
+    *
+FROM rightmove_data
+"""
+
+GET_PROPERTIES_DATA_SQL_QUERY = """
+SELECT  
+    *
+FROM properties_data
+"""

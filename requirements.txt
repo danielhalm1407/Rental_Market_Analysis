@@ -14,9 +14,8 @@ sqlalchemy>=2.0.23
 torch>=2
 transformers>=4.39
 
-# Add pkgs required by VS Code
-jupyter
-ipykernel
+# Regression
+scikit-learn
 
 
 # Visualisation

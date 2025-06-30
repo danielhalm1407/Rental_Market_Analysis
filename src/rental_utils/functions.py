@@ -109,7 +109,7 @@ async def scrape_search(location_id: str) -> str:
     # Prepare to fetch additional pages if there are more results
     other_pages = []
     # rightmove sets the API limit to 1000 properties, but here max_api_results is set to 20 for demonstration/testing
-    max_api_results = 20    
+    max_api_results = 200    
     # The 'index' parameter in the URL specifies the starting property for each page
     for offset in range(RESULTS_PER_PAGE, total_results, RESULTS_PER_PAGE):
         # Stop scraping more pages when the scraper reaches the API limit
@@ -140,7 +140,7 @@ def filter_df(df: pd.DataFrame) -> pd.DataFrame:
     Filters the input DataFrame to retain only the columns relevant for property analysis.
 
     Args:
-        df (pd.DataFrame): The DataFrame to filter. 
+        df (pd.DataFrame): The DataFrame to filter.
 
     Returns:
         pd.DataFrame: A DataFrame containing only the selected columns of interest.
@@ -173,8 +173,31 @@ def filter_df(df: pd.DataFrame) -> pd.DataFrame:
     columns_of_interest = base_cols
     # Filter the DataFrame to include only the columns of interest
     filtered_df = df[columns_of_interest]
+    # Create a price per bedroom column
+    filtered_df = filtered_df.copy()
+    filtered_df.loc[:, "price_per_bed"] = filtered_df["price.amount"] / filtered_df["bedrooms"]
     # Return the filtered DataFrame
     return filtered_df
+
+
+# Clean the column names
+def clean_column_names(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Renames selected columns of a DataFrame to make them more readable and SQL-friendly.
+    Specifically, it replaces nested JSON column names (with dots) with simpler names.
+    """
+    # Create a mapping of the columns whose names we are changing
+    rename_map = {
+        "location.latitude": "latitude",
+        "location.longitude": "longitude",
+        "listingUpdate.listingUpdateReason": "listingUpdateReason",
+        "listingUpdate.listingUpdateDate": "listingUpdateDate",
+        "price.amount": "priceAmount",
+        "price.frequency": "priceFrequency",
+    }
+    # then, actually rename the columns
+    return df.rename(columns=rename_map)
+
 
 
 # TRAVEL TIME DATA
@@ -196,8 +219,8 @@ def create_payload(df: pd.DataFrame, search_id: str="1", transportation_type: st
     df["id"] = df["id"].astype(str)
 
     # Select and rename latitude/longitude columns for API format
-    locations = df[["id", "location.latitude", "location.longitude"]].rename(
-        columns={"location.latitude": "lat", "location.longitude": "lng"}
+    locations = df[["id", "latitude", "longitude"]].rename(
+        columns={"latitude": "lat", "longitude": "lng"}
     )
 
     # Convert DataFrame rows to a list of dicts for each destination
@@ -228,4 +251,37 @@ def create_payload(df: pd.DataFrame, search_id: str="1", transportation_type: st
     }
 
     return payload
+
+
+# Find underpriced flats relative to others with the same travel time
+def find_underpriced(df, user_budget=1200):
+    """Finds underpriced flats relative to others with the same travel time
+    Takes as input a dataframe with the information, and the user's budget, and outputs a sorted 
+    dataframe with the most underpriced rental properties at the top, and
+    a recommendation with a link to the most ideal such property."""
+    # Calculate the difference between predictions and the actual price
+    df = df.copy()
+    df.loc[:, 'savings'] = df['predicted_price_per_bed'] - df['price_per_bed']
+
+    # Filter out the data for only that which is within the user's input budget
+    budget_data = df[df['price_per_bed'] <= user_budget]
+
+    # sort in descending order of 'savings' column: the most undervalued flat first
+    sorted_data = budget_data.sort_values(by='savings', ascending=False)
+
+    # Output the most underpriced flat
+    if not sorted_data.empty:
+        top_flat = sorted_data.iloc[0]
+        address = top_flat['displayAddress']
+        price = top_flat['price_per_bed']
+        pred_price = top_flat['predicted_price_per_bed']
+        url = top_flat['propertyUrl']
+        full_url = f"https://www.rightmove.co.uk{url}" if url.startswith('/') else url
+        display(Markdown(
+            f"Your most underpriced flat is at **{address}** for a rent per bedroom of **£{price:.2f}**, while similar properties fetch **£{pred_price:.2f}**.<br>"
+            f"[Click here to view the property]({full_url})"
+        ))
+    else:
+        print("No flats found within your budget.")
+    return sorted_data
 

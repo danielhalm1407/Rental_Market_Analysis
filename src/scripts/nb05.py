@@ -8,12 +8,10 @@ import pandas as pd
 import os
 import sys
 
-# Data Visualisation
-import seaborn as sns
-import matplotlib.pyplot as plt
 
-# Regressions
-from sklearn.linear_model import LinearRegression
+# url displays
+from IPython.display import display, Markdown
+
 
 # Saving out data
 from sqlalchemy import inspect, text
@@ -65,51 +63,29 @@ data_folder_path = os.path.join(current_dir, '..', '..', "data")
 
 ## Load in the complete data from the corresponding table in the database
 logging.info('Getting Data from the Database')
-engine = sqlq.get_sql_engine(f"{data_folder_path}/properties.db")
-with engine.connect() as connection:
+# connect to the database
+supabase_engine = sqlq.get_supabase_engine(
+    user="postgres",
+    password="Roakla_235%",
+    host="db.svwbxdbftbrihozrebzl.supabase.co",
+    port=5432,
+    database="postgres"
+)
+
+
+# extract the table from the database
+with supabase_engine.connect() as connection:
     properties_data = pd.read_sql(text(sqlq.GET_PROPERTIES_DATA_SQL_QUERY), connection)
+    
 logging.info(f'Data found, with {len(properties_data["id"])} properties')
 
 
-## Filter out only the monthly Contracts
-reg_data = properties_data[properties_data["priceFrequency"] == "monthly"]
+## Help a user find underpriced flats
 
-# make sure price per bed is between 100 and 10k (not null or inf)
-reg_data = reg_data[pd.to_numeric(reg_data["price_per_bed"], errors="coerce").between(100, 10000)]
+### ask a user for the budget they have to spend on rent
+user_budget_input = input("What is your desired monthly budget on rent? ").strip()
+### set the budget as 1000 to default if the user does not input a number
+user_budget = int(user_budget_input) if user_budget_input else 1000
 
-## Make A Scatter Plot of Rent Per Bed Against Travel Time
-# allow the user to choose
-show_plot = input("Do you want to display the plot? (y/n): ").strip().lower()
-
-if show_plot == 'y':
-    sns.regplot(x='travel_time', y='price_per_bed', data=reg_data)
-    plt.xlabel('Travel Time')
-    plt.ylabel('Price per Bed')
-    plt.title('Price per Bed vs Travel Time with Line of Best Fit')
-    plt.show()
-else:
-    print("Plot display skipped.")
-
-
-
-# MAKE PREDICTIONS OF RENT PER BED BASED ON THE RENTAL DATA
-
-# Select features and target
-X = reg_data[['travel_time', 'bathrooms']]
-y = reg_data['price_per_bed']
-
-# Create and fit model
-model = LinearRegression()
-model.fit(X, y)
-
-# To generate predictions 
-predictions = model.predict(X)
-
-# Add predictions to dataframe
-reg_data.loc[:,'predicted_price_per_bed'] = predictions
-
-
-# Save Out The Data With Predictions
-# Save the filled-in dataframe into the pre-existing table, replacing the incomplete with the complete data
-sqlq.make_table(reg_data, "properties_data", engine, if_exists='replace')
+sorted_data = rent.find_underpriced(properties_data, user_budget)
 

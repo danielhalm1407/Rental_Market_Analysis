@@ -8,10 +8,12 @@ import pandas as pd
 import os
 import sys
 
+# Data Visualisation
+import seaborn as sns
+import matplotlib.pyplot as plt
 
-# url displays
-from IPython.display import display, Markdown
-
+# Regressions
+from sklearn.linear_model import LinearRegression
 
 # Saving out data
 from sqlalchemy import inspect, text
@@ -69,12 +71,77 @@ with engine.connect() as connection:
 logging.info(f'Data found, with {len(properties_data["id"])} properties')
 
 
-## Help a user find underpriced flats
+## Clean the data
+reg_data = rent.clean_for_reg(properties_data)
 
-### ask a user for the budget they have to spend on rent
-user_budget_input = input("What is your desired monthly budget on rent? ").strip()
-### set the budget as 1000 to default if the user does not input a number
-user_budget = int(user_budget_input) if user_budget_input else 1000
+## Make A Scatter Plot of Rent Per Bed Against Travel Time
+# allow the user to choose
+show_plot = input("Do you want to display the plot? (y/n): ").strip().lower()
 
-sorted_data = rent.find_underpriced(properties_data, user_budget)
+if show_plot == 'y':
+    sns.regplot(x='travel_time', y='price_per_bed', data=reg_data)
+    plt.xlabel('Travel Time')
+    plt.ylabel('Price per Bed')
+    plt.title('Price per Bed vs Travel Time with Line of Best Fit')
+    plt.show()
+else:
+    print("Plot display skipped.")
 
+
+
+# MAKE PREDICTIONS OF RENT PER BED BASED ON THE RENTAL DATA
+logging.info('Making Predictions')
+## Select features and target
+X = reg_data[['travel_time', 'bathrooms']]
+y = reg_data['price_per_bed']
+
+## Create and fit model
+model = LinearRegression()
+model.fit(X, y)
+
+## To generate predictions 
+predictions = model.predict(X)
+
+## Add predictions to dataframe
+reg_data.loc[:,'predicted_price_per_bed'] = predictions
+
+logging.info('Saving Out Predictions')
+# Save Out The Data With Predictions
+##### create a temporary table
+sqlq.make_table(reg_data[["id", "predicted_price_per_bed"]], "temp_updates", engine, if_exists="replace")
+
+##### run a single SQL statement to update properties_data using temp_updates (fill in missing data)
+with engine.begin() as connection:
+    connection.execute(text(sqlq.UPDATE_PREDICTED_PRICE))
+
+
+logging.info('Predictions Saved Out to Local Database')
+
+
+# Save out to a table in the supbase database
+## Connect to the engine
+supabase_engine = sqlq.get_supabase_engine(
+    user="postgres",
+    password="Roakla_235%",
+    host="db.svwbxdbftbrihozrebzl.supabase.co",
+    port=5432,
+    database="postgres"
+)
+
+## Execute the CREATE TABLE query to create a blank table if it doesn't already exist
+with supabase_engine.begin() as connection:
+    connection.execute(text(sqlq.CREATE_TABLE_SQL_QUERY))
+
+## find the ids that already exist
+with supabase_engine.connect() as conn:
+    existing_ids = conn.execute(text("SELECT id FROM properties_data")).fetchall()
+## filter out only the ids that will be unique to the existing table
+existing_ids = {row[0] for row in existing_ids}
+new_rows = reg_data[~reg_data['id'].isin(existing_ids)]
+
+
+# fill in the data into the table
+sqlq.make_table(new_rows, "properties_data", supabase_engine)
+
+
+logging.info('Predictions Saved Out to Cloud Database')

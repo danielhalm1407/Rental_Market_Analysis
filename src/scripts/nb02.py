@@ -82,9 +82,6 @@ logging.info("Connecting to the Database...")
 engine = sqlq.get_sql_engine(f"{data_folder_path}/properties.db")
 
 
-## Execute the drop table query (Drop the old table and start a fresh one)
-with engine.connect() as connection:
-    connection.execute(text(sqlq.DROP_PROPERTIES_TABLE_SQL_QUERY))
 
 ## Execute the CREATE TABLE query to create a blank table
 with engine.connect() as connection:

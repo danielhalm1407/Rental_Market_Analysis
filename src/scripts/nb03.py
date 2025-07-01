@@ -114,6 +114,12 @@ properties_data = df_results.merge(
     rightmove_data.drop(columns=["travel_time","distance"]),
       on="id", how="left")
 
-# Save the filled-in dataframe into the pre-existing table, replacing the incomplete with the complete data
-sqlq.make_table(properties_data, "properties_data", engine, if_exists='replace')
+##### create a temporary table
+sqlq.make_table(properties_data[["id", "travel_time", "distance"]], "temp_updates", engine, if_exists="replace")
+
+##### run a single SQL statement to update properties_data using temp_updates (fill in missing data)
+with engine.begin() as connection:
+    connection.execute(text(sqlq.UPDATE_DIST_AND_TRAVEL_TIME))
+
+
 logging.info("Saved Travel Time Data to the DataBase")

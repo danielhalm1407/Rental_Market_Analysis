@@ -24,6 +24,9 @@ from typing import TypedDict
 # Database Connection
 from sqlalchemy import create_engine
 
+# url displays
+from IPython.display import display, Markdown
+
 # File and System Operations
 import os
 import sys
@@ -176,6 +179,8 @@ def filter_df(df: pd.DataFrame) -> pd.DataFrame:
     # Create a price per bedroom column
     filtered_df = filtered_df.copy()
     filtered_df.loc[:, "price_per_bed"] = filtered_df["price.amount"] / filtered_df["bedrooms"]
+    # remove rows with a duplicated id
+    filtered_df = filtered_df.drop_duplicates(subset="id")
     # Return the filtered DataFrame
     return filtered_df
 
@@ -197,6 +202,39 @@ def clean_column_names(df: pd.DataFrame) -> pd.DataFrame:
     }
     # then, actually rename the columns
     return df.rename(columns=rename_map)
+
+
+# Define a function that cleans a dataframe for regression analysis
+def clean_for_reg(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Cleans the input DataFrame for regression analysis.
+
+    Inputs:
+        df (pd.DataFrame): The input DataFrame containing property data.
+    Output:
+        pd.DataFrame: The cleaned DataFrame suitable for regression.
+    """
+    # Adjust price_per_bed to monthly if priceFrequency is 'weekly', else keep as is
+    df = df.copy()
+    df["price_per_bed"] = df.apply(
+        lambda row: row["price_per_bed"] * 52 / 12 if row["priceFrequency"] == "weekly" else row["price_per_bed"],
+        axis=1
+    )
+
+    # Filter for rows where priceFrequency is 'monthly' or 'weekly' (after adjustment)
+    reg_data = df[df["priceFrequency"].isin(["monthly", "weekly"])]
+
+    # Eliminate all rows where travel_time is non-numeric or not between 60 and 5400 seconds
+    reg_data = reg_data[pd.to_numeric(reg_data["travel_time"], errors="coerce").between(60, 5400)]
+
+    # Eliminate all rows where bathrooms is non-numeric or not between 1 and 6
+    reg_data = reg_data[pd.to_numeric(reg_data["bathrooms"], errors="coerce").between(1, 6)]
+
+    # Filter for rows where price_per_bed is a valid number between 100 and 10,000
+    reg_data = reg_data[pd.to_numeric(reg_data["price_per_bed"], errors="coerce").between(100, 10000)]
+    
+    # return the clean data
+    return reg_data
 
 
 
@@ -255,21 +293,22 @@ def create_payload(df: pd.DataFrame, search_id: str="1", transportation_type: st
 
 # Find underpriced flats relative to others with the same travel time
 def find_underpriced(df, user_budget=1200):
-    """Finds underpriced flats relative to others with the same travel time
+    """Finds underpriced flats relative to others with the same travel time.
     Takes as input a dataframe with the information, and the user's budget, and outputs a sorted 
     dataframe with the most underpriced rental properties at the top, and
-    a recommendation with a link to the most ideal such property."""
-    # Calculate the difference between predictions and the actual price
+    a recommendation with a link to the most ideal such property.
+    """
+    # Make a copy and calculate savings
     df = df.copy()
-    df.loc[:, 'savings'] = df['predicted_price_per_bed'] - df['price_per_bed']
+    df['savings'] = df['predicted_price_per_bed'] - df['price_per_bed']
 
-    # Filter out the data for only that which is within the user's input budget
+    # Filter by budget
     budget_data = df[df['price_per_bed'] <= user_budget]
 
-    # sort in descending order of 'savings' column: the most undervalued flat first
+    # Sort descending by savings
     sorted_data = budget_data.sort_values(by='savings', ascending=False)
 
-    # Output the most underpriced flat
+    # Print the top property
     if not sorted_data.empty:
         top_flat = sorted_data.iloc[0]
         address = top_flat['displayAddress']
@@ -277,11 +316,12 @@ def find_underpriced(df, user_budget=1200):
         pred_price = top_flat['predicted_price_per_bed']
         url = top_flat['propertyUrl']
         full_url = f"https://www.rightmove.co.uk{url}" if url.startswith('/') else url
-        display(Markdown(
-            f"Your most underpriced flat is at **{address}** for a rent per bedroom of **£{price:.2f}**, while similar properties fetch **£{pred_price:.2f}**.<br>"
-            f"[Click here to view the property]({full_url})"
-        ))
+
+        print(f"Your most underpriced flat is at '{address}' with a rent per bedroom of £{price:.2f}, "
+              f"while similar properties fetch £{pred_price:.2f}.\n"
+              f"View it here: {full_url}")
     else:
         print("No flats found within your budget.")
+
     return sorted_data
 

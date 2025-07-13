@@ -163,6 +163,6 @@ cython_debug/
 
 ## Ignore data that i have added to the repository
 .DS_Store
-credentials*json
+*credentials*
 data/
 .vscode/

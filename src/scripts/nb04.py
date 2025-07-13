@@ -31,7 +31,7 @@ logging.getLogger().setLevel(logging.INFO)
 # DIRECTORY SETUP
 
 ### Find the directory of the current file
-__file__ = "nb02.py"
+__file__ = "nb04.py"
 
 logging.info('Finding current Path')
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -54,10 +54,15 @@ logging.info('Imported Custom Package')
 
 ## Set Up The Paths of the Key Outside Directories/Files
 logging.info('Setting up other paths...')
-credentials_file_path = os.path.join(current_dir, '..', '..', "credentials.json")
+credentials_file_path = os.path.join(current_dir, '..', '..', "supabase_credentials.json")
 data_folder_path = os.path.join(current_dir, '..', '..', "data")
 
+# open the  credentials file and load the data into a variable
+with open(credentials_file_path, "r") as f:
+    credentials = json.load(f)
 
+
+    
 
 
 # PRIMARY RUNNING
@@ -122,8 +127,8 @@ logging.info('Predictions Saved Out to Local Database')
 ## Connect to the engine
 supabase_engine = sqlq.get_supabase_engine(
     user="postgres",
-    password="Roakla_235%",
-    host="db.svwbxdbftbrihozrebzl.supabase.co",
+    password=credentials['password'],
+    host=credentials['host'],
     port=5432,
     database="postgres"
 )

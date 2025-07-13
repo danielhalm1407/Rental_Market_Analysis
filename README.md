@@ -1,4 +1,4 @@
-# Rental Market Demand and Cost Inference
+# Rental Market Analysis
 
 This project aims to estimate the impact of key demand and supply factors on rental prices. So far, the analysis focuses in the London Market on rental unit characteristics, particularly on commute times (as opposed to commute distances) above and beyond conventional characteristics such as number of bedrooms and floor space (for which I normalise) and number of bathrooms and description keywords (e.g., luxury, spacious, rennovated). 
 

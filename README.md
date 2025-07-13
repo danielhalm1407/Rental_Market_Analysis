@@ -1,6 +1,12 @@
 # Rental Market Demand and Cost Inference
 
-This project aims to use rental market data to estimate the sensitivity of demand and supply to their respective shifters, both in terms of quantities as a function of price and shifters, as well as prices (inverse supply and demand) as a function of quantity and shifters.
+This project aims to estimate the impact of key demand and supply factors on rental prices. So far, the analysis focuses in the London Market on rental unit characteristics, particularly on commute times (as opposed to commute distances) above and beyond conventional characteristics such as number of bedrooms and floor space (for which I normalise) and number of bathrooms and description keywords (e.g., luxury, spacious, rennovated). 
+
+Data on rental prices and a majority of unit characteristics has been extracted from Rightmove (including location), whereas commute times were calculated by inputting the co-ordinates of each property into the Travel Time REST API.
+
+The next stage of analysis is to apply statistical machine learning methods to the already gathered data (more than a simple linear regression) to best predict listed prices. 
+
+Nonetheless, the ultimate aim is to use an industrial economic model to estimate the sensitivity of demand and supply to their respective shifters, both in terms of quantities as a function of price and shifters, as well as prices (inverse supply and demand) as a function of quantity and shifters. A key challenge is that property/unit data has limited time variation, yet must be matched to supply shifters, which have greater variation across time but have limited cross-sectional variation.
 
 Given the growing unaffordability of housing across the rich world [(Romei & Fleming, The Financial Times, 2024)](https://www.ft.com/content/f206f6f1-1536-4b29-ad8d-2421fadfc64b), it is increasingly important to understand the dynamics of the housing market, particularly the rental market, into which an ever larger number of households are constrained.
 
